@@ -3,9 +3,11 @@ function Quote() {
     <div className="quote">
       <p>
 
-        Mathmatics is not about numbers,eauations, computations,
-        or algorithms: it is about understanding.
-        <span className="author"><i>-William Paul Thurston</i></span>
+        Mathematics are the result of mysterious powers which no one understands,
+        and which the unconscious recognition of beauty must play an important part.
+        Out of an infinity of designs a mathematician chooses one pattern for beauty’s
+        sake and pulls it down to earth.
+        <span className="author"><i>-Marston Morse, American mathematician</i></span>
       </p>
     </div>
   );
