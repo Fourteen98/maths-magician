@@ -19,7 +19,8 @@
 
 ## Live Demo 
 
-[Maths Magician Link](https://fourteen98.github.io/maths-magician/)
+[Maths Magician Heroku Deploy](https://maths-scape.herokuapp.com)
+[Math Magician Netlify Deploy](https://boisterous-cuchufli-c1be27.netlify.app)
 
 # Getting Started 
 
