@@ -5,6 +5,42 @@
   font-family: 'Outfit', sans-serif;
 }
 
+/* Pages */
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #f2f2f2;
+  justify-content: space-between;
+}
+
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+  border-left: 2px solid grey;
+}
+
+.home {
+  margin: 2rem;
+}
+
+.home h2 {
+  margin-bottom: 10px;
+  font-size: 37px;
+}
+
+.home p {
+  margin: 2rem;
+  font-size: 28px;
+}
+
+.quote {
+  text-align: center;
+  width: 70%;
+  margin: 10rem;
+}
+
 .container {
   position: absolute;
   top: 50%;
